@@ -3,4 +3,4 @@
 This repository contains the source code, and results for the experiments for "Active Selection of Classification Features".
 
 `src/` contains the source code.
-`experiments.zip` containts all experiments.
+`experiments.zip` contains all experiments.
