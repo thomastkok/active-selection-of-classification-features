@@ -4,3 +4,5 @@ This repository contains the source code, and results for the experiments for "A
 
 `src/` contains the source code.
 `experiments.zip` contains all experiments.
+
+For clarification, please contact me at `thomas.kok@ugent.be`.
