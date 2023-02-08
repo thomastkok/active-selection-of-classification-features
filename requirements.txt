@@ -9,7 +9,7 @@ cffi==1.14.0
 click==7.1.2
 cloudpickle==1.4.1
 colorama==0.4.3
-cryptography==3.3.2
+cryptography==39.0.1
 cycler==0.10.0
 decorator==4.4.2
 docopt==0.6.2
